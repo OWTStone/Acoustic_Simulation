@@ -1,5 +1,5 @@
 # Acoustic_Simulation
-Simulating various drone acoustic signatures
+Simulating various drone acoustic signatures captured in the Drone-detection_dataset below.
 
 # Drone-detection-dataset
 Dataset containing IR, visible and audio data that can be used to train and evaluate drone detection sensors and systems.
